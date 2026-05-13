@@ -1,4 +1,4 @@
-# Banking Data — Exploratory Data Analysis
+# Banking Data - Exploratory Data Analysis
 
 ## Objective
 Exploratory analysis of banking campaign data to understand 
